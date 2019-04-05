@@ -65,3 +65,6 @@ circuitBreaker.shutdown()
 ```bash
 $ sbt test
 ```
+
+## References
+- Circuit Breaker pattern: https://www.slideshare.net/nguyentungniit/circuit-breaker-pattern-127416143
